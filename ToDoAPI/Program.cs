@@ -1,5 +1,8 @@
 
 
+using Microsoft.EntityFrameworkCore;
+using ToDoAPI.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
